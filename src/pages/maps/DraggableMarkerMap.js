@@ -59,7 +59,7 @@ export default class DraggableMarkerMap extends Component {
        <GoogleMapReact
        draggable={draggable}
        onChange={this.onChange}
-         bootstrapURLKeys={{ key: 'AIzaSyAyesbQMyKVVbBgKVi2g6VX7mop2z96jBo'}}
+         bootstrapURLKeys={{ key: 'YO GOOGLE MAP KEY'}}
          center={center}
          zoom={zoom}
          onChildMouseDown={this.onMarkerInteraction}

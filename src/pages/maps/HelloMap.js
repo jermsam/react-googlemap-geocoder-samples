@@ -34,7 +34,7 @@ export default class HelloMap extends Component {
        <div style={{ height: '75vh', width: '100%' }}>
        <GoogleMapReact
       
-         bootstrapURLKeys={{ key: 'AIzaSyAyesbQMyKVVbBgKVi2g6VX7mop2z96jBo'}}
+         bootstrapURLKeys={{ key: 'YO GOOGLE MAP KEY'}}
          defaultCenter={center}
          defaultZoom={zoom}
          

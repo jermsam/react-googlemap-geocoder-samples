@@ -16,7 +16,7 @@ AnyReactComponent.propTypes={
 
 const returnAddress =(lat,lng)=>{
 // set Google Maps Geocoding API for purposes of quota management. Its optional but recommended.
-  Geocode.setApiKey('AIzaSyAyesbQMyKVVbBgKVi2g6VX7mop2z96jBo');
+  Geocode.setApiKey('YO GOOGLE MAP KEY');
   // Enable or disable logs. Its optional.
 Geocode.enableDebug();
 
