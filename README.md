@@ -1,4 +1,4 @@
-# sample-u
+# react-googlemap-geocoder-samples
 
 > a react app that demonstrates how to draw a map component, place a marker on it, make the marker drag-able, zero-down on location information based on marker position and be able to position a marker on the map from form inpu. 
 
